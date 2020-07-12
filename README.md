@@ -2,6 +2,8 @@
 imgShare is a web application to share images, comments, and more.
 
 ![](docs/screenshot1.png)
+# Demo
+https://red-social-test.herokuapp.com/
 
 # Environment Variables
 * `MONGODB_URI`, the mongodb database uri
