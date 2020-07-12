@@ -1,8 +1,11 @@
 {
-  "name": "nodejs-imgshare",
+  "name": "red-social-test",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "dev": "nodemon src/",
     "start": "node src/index.js"
